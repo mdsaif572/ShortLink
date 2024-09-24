@@ -41,7 +41,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/CodexBots/ShortLink">
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mohdsaif0026">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
@@ -53,7 +53,7 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodexBots/ShortLink">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/mohdsaif0026">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p></details>
 
@@ -72,7 +72,7 @@
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/CodeXBro)
+- [Rahul](https://telegram.me/terminator094)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
